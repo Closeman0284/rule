@@ -1,2 +1,4 @@
-payload:
-  - DOMAIN-SUFFIX,perplexity.ai
+# NAME: perplexity
+DOMAIN,perplexity.ai
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-KEYWORD,perplexity
